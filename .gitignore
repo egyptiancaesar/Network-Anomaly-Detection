@@ -1,0 +1,4 @@
+#Dataset
+Datasets/*.txt
+Datasets/*.arff
+Datasets/*.zip
